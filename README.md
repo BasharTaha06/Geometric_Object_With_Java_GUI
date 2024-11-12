@@ -1,5 +1,6 @@
+                                                                             Geometric Object Project
 
- Geometric Object Project
+
 
 A Java-based application to calculate the area and perimeter of various geometric shapes,including 
 squares, rectangles, and triangles. The project was developed with Object-Oriented Programming 
