@@ -23,7 +23,7 @@ Installation
 
 1. Clone the repository:
    
-   git clone https://github.com/yourusername/geometric-object-project.git
+   git clone https://github.com/BasharTaha06/Geometric_Object_With_Java_GUI.git
   
 3. Open the project in your preferred IDE.
 4. Build and run the application.
